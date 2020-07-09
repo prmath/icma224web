@@ -1,0 +1,39 @@
+<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+<script>sagecell.makeSagecell({
+"inputLocation": ".sage",
+"linked": true
+});</script>
+
+<div class="sage">
+  <script type="text/x-sage"></script>
+</div>
+<div class="sage">
+  <script type="text/x-sage"></script>
+</div>
+<div class="sage">
+  <script type="text/x-sage"></script>
+</div>
+<div class="sage">
+  <script type="text/x-sage"></script>
+</div>
+<div class="sage">
+  <script type="text/x-sage"></script>
+</div>
+<div class="sage">
+  <script type="text/x-sage"></script>
+</div>
+<div class="sage">
+  <script type="text/x-sage"></script>
+</div>
+<div class="sage">
+  <script type="text/x-sage"></script>
+</div>
+<div class="sage">
+  <script type="text/x-sage"></script>
+</div>
+<div class="sage">
+  <script type="text/x-sage"></script>
+</div>
+<div class="sage">
+  <script type="text/x-sage"></script>
+</div>
